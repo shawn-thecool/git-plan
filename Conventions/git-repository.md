@@ -17,6 +17,7 @@
 - project : 프로젝트
 - game : 게임
 - test : 테스트
+- npm : npm 모듈 배포용
 ```
 
 ### Name
